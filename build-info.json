@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "target": "windows/amd64",
+  "subsystem": "Windows GUI",
+  "go": "go version go1.26.1 darwin/arm64",
+  "size_bytes": 2380288,
+  "sha256": "89e1630a85944d86fe3667c2aaa8c0dffb5e55f04538792175e162ddf9023e10",
+  "protocol_reference_commits": {
+    "noosxe/atk-tool": "fb4e0c65b5fa060dd4a16fa0ecd1639b9e0903fa",
+    "papelblume/atk-tool-plus": "a1a9e4663705bcc0d71ded33c7783b9b0371c1f2",
+    "cobanov/atkctl": "1755d85106630cacc2f6c77a843b5819c4e07c37",
+    "rafagfran/mchose-v9-pro-battery-tray": "214252279d2ae02294eb680ddfc85d267a5a5b68",
+    "omeranha/v9pro-control": "3ab86cfa163158911d8ef418cbc425e0600f244e"
+  },
+  "windows_execution_verified": false,
+  "physical_devices_verified": false
+}
